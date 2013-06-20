@@ -13,7 +13,7 @@ gem 'jwt', '~> 0.1.5'
 gem 'jruby-openssl', :platforms => :jruby
 
 group :development do
-  gem 'launchy', '>= 2.1.1'
+  gem 'launchy', '>= 2.1.0'
   gem 'yard'
   if File.exist?('/usr/bin/gcc-4.2')
     # Not a critically important gem to have around.
