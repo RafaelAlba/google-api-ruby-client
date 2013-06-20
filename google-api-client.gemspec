@@ -30,7 +30,7 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<multi_json>, [">= 1.0.0"])
       s.add_runtime_dependency(%q<extlib>, [">= 0.9.15"])
       s.add_runtime_dependency(%q<jwt>, [">= 0.1.5"])
-      s.add_runtime_dependency(%q<launchy>, [">= 2.1.1"])
+      s.add_runtime_dependency(%q<launchy>, [">= 2.1.0"])
       s.add_development_dependency(%q<rake>, [">= 0.9.0"])
       s.add_development_dependency(%q<rspec>, [">= 2.11.0"])
     else
@@ -42,7 +42,7 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<multi_json>, [">= 1.0.0"])
       s.add_dependency(%q<extlib>, [">= 0.9.15"])
       s.add_dependency(%q<jwt>, [">= 0.1.5"])
-      s.add_dependency(%q<launchy>, [">= 2.1.1"])
+      s.add_dependency(%q<launchy>, [">= 2.1.0"])
       s.add_dependency(%q<rake>, [">= 0.9.0"])
       s.add_dependency(%q<rspec>, [">= 2.11.0"])
     end
@@ -55,7 +55,7 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<multi_json>, [">= 1.0.0"])
     s.add_dependency(%q<extlib>, [">= 0.9.15"])
     s.add_dependency(%q<jwt>, [">= 0.1.5"])
-    s.add_dependency(%q<launchy>, [">= 2.1.1"])
+    s.add_dependency(%q<launchy>, [">= 2.1.0"])
     s.add_dependency(%q<rake>, [">= 0.9.0"])
     s.add_dependency(%q<rspec>, [">= 2.11.0"])
   end
