@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'signet', '>= 0.5.0'
-gem 'addressable', '>= 2.3.2'
+gem 'addressable', '>= 2.2.6'
 gem 'uuidtools', '>= 2.1.0'
 gem 'autoparse', '>= 0.3.3'
 gem 'faraday', '~> 0.7'
